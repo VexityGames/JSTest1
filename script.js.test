@@ -1,5 +1,0 @@
-string("brendonho")
-var brendonTest = true;
-var brendonForgotJs = function(){
-rect(1,1,1,1)
-};
